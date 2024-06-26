@@ -1,4 +1,4 @@
-# Hi! I'm Alex 👋
+# <img src="https://raw.githubusercontent.com/your-username/your-repo/main/animated-greeting.svg" width="600" height="100">
 
 ## 🚀 Sobre Mí
 - 🔭 I'm currently learning Java & Springboot framework.
