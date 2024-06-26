@@ -6,7 +6,7 @@
 - ⚡ Fun fact I love riding a motocross.
   
 ## 🛠 Habilidades
-- ![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=aperez1haad&layout=compact&theme=radical)
+ ![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=aperez1haad&layout=compact&theme=radical)
 - Herramientas: `Docker`, `Git`, `MySQL`,`Mongodb`,`Postman`
 
 ## 📈 Estadísticas de GitHub
