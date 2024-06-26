@@ -20,7 +20,6 @@
   </style>
   <text x="0" y="50" class="text">Hi! I'm Alex <tspan class="cursor">|</tspan></text>
   <animate 
-    xlink:href="#text"
     attributeName="textLength"
     from="0"
     to="450"
