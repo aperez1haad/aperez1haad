@@ -1,0 +1,30 @@
+<svg viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      fill: limegreen;
+      font-size: 48px;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    .cursor {
+      fill: limegreen;
+      animation: blink 1s infinite;
+    }
+    @keyframes blink {
+      0%, 50% {
+        opacity: 1;
+      }
+      50.1%, 100% {
+        opacity: 0;
+      }
+    }
+  </style>
+  <text x="0" y="50" class="text">Hi! I'm Alex <tspan class="cursor">|</tspan></text>
+  <animate 
+    xlink:href="#text"
+    attributeName="textLength"
+    from="0"
+    to="450"
+    dur="3s"
+    fill="freeze"
+  />
+</svg>
