@@ -18,12 +18,14 @@
       }
     }
   </style>
-  <text x="0" y="50" class="text">Hi! I'm Alex <tspan class="cursor">|</tspan></text>
-  <animate 
-    attributeName="textLength"
-    from="0"
-    to="450"
-    dur="3s"
-    fill="freeze"
-  />
+  
+  <text x="0" y="50" class="text" id="first-text">Hi! I'm Alex<tspan class="cursor">|</tspan></text>
+  <text x="0" y="50" class="text" id="second-text" visibility="hidden">A Java Backend Developer<tspan class="cursor">|</tspan></text>
+  
+  <animate xlink:href="#first-text" attributeName="textLength" from="0" to="350" dur="2s" fill="freeze" />
+  <set xlink:href="#first-text" attributeName="visibility" to="hidden" begin="4s; second-text.end+2s" />
+  <set xlink:href="#second-text" attributeName="visibility" to="visible" begin="first-text.end+2s" />
+  <animate xlink:href="#second-text" attributeName="textLength" from="0" to="450" dur="2s" fill="freeze" begin="first-text.end+2s" />
+  <set xlink:href="#second-text" attributeName="visibility" to="hidden" begin="second-text.end+2s" />
+  <set xlink:href="#first-text" attributeName="visibility" to="visible" begin="second-text.end+2s" />
 </svg>
