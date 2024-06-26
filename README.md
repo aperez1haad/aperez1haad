@@ -6,7 +6,6 @@
 - ⚡ Fun fact i was .
   
 ## 🛠 Habilidades
-- Lenguajes: `Java`
 - ![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=aperez1haad&layout=compact&theme=radical)
 - Herramientas: `Docker`, `Git`, `MySQL`,`Mongodb`,`Postman`
 
