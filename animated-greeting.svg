@@ -18,7 +18,7 @@
       }
     }
   </style>
-  
+
   <text x="0" y="50" class="text" id="first-text">Hi! I'm Alex<tspan class="cursor">|</tspan></text>
   <text x="0" y="50" class="text" id="second-text" visibility="hidden">A Java Backend Developer<tspan class="cursor">|</tspan></text>
   
