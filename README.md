@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/your-username/your-repo/main/animated-greeting.svg" width="600" height="100">
+![Título Animado](https://raw.githubusercontent.com/your-username/your-repo/main/animated-greeting.svg)
 
 ## 🚀 Sobre Mí
 - 🔭 I'm currently learning Java & Springboot framework.
