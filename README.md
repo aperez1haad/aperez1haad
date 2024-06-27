@@ -7,7 +7,7 @@
   
 ## 🛠 Habilidades
  ![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=aperez1haad&layout=compact&theme=radical)
-- Herramientas: `Docker`, `Git`, `MySQL`,`Mongodb`,`Postman`
+- Herramientas: `Docker`, `Git`, `MySQL`,`Mongodb`,`Postman`, 'Springboot'
 
 ## 📈 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=aperez1haad&show_icons=true&theme=radical)
